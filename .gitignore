@@ -137,3 +137,4 @@ cython_debug/
 
 # JupyterLab
 .jupyterlab-config
+qr_codes/
